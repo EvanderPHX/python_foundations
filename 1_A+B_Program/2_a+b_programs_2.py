@@ -1,4 +1,32 @@
 """
+2. A+B Problem II
+Problem Description
+Compute the sum of a + b, but the input format is slightly different.
+
+Input Description
+The first line contains an integer N, indicating that there will be N lines following, each containing two integers a and b separated by a space.
+
+Output Description
+For each pair of a and b, output their sum on a new line, in the corresponding order.
+For example, the second pair of a and b should produce output on the second line.
+
+Input Example
+
+Copy
+Edit
+2
+2 4
+9 21
+Output Example
+
+Copy
+Edit
+6
+30
+Hint
+Note that there may be multiple test cases, not just one group of data.
+In other words, input will continue with new values of N followed by corresponding pairs of a and b.
+
 2. A+B问题II
 题目描述
 计算a+b，但输入方式有所改变。
