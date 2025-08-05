@@ -34,7 +34,13 @@ while i < len(lines):
         print(a+b)
         i+=1
 
-
+"""
+✅ Summary:
+Pattern	Meaning
+for _ in range(N)	Loop N times, ignore the index
+_ = value	        Assign but don't use
+x, _, y = ...	    Ignore part of tuple unpacking
+"""
 
 # if __name__ == '__main__':
 #     pass
